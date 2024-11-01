@@ -2,7 +2,7 @@
 - 👀 I’m interested in Program Coding and debugging
 - 🌱 I’m currently learning JS and C#
 - 💞️ I’m looking to collaborate on proj that will expand my knowledge
-- 📫 How to reach me @gmsxythe at fb
+- 📫 How to reach me @gmsxythe
 - ⚡ Fun fact: Player of CrossFire PH
 
 <!---
